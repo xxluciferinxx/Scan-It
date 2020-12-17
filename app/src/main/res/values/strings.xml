@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScanIt</string>
+    <string name="text_will_appear_here">Text or Link will appear here…</string>
+    <string name="read">READ TEXT</string>
+    <string name="scan">SCAN QR-CODE</string>
+    <string name="noData">No data found. Try again…</string>
+    <string name="open">OPEN LINK</string>
+    <string name="clear">CLEAR</string>
+    <string name="copy">COPY</string>
+</resources>
